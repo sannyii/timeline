@@ -19,7 +19,8 @@ export default function Timeline({ data }: TimelineProps) {
     return (
         <>
             <Script 
-                src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js" 
+                // src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js" 
+                src="/static/timeline.js" 
                 strategy="afterInteractive"
                 onReady={() => {
                     if (timelineRef.current) {
