@@ -20,7 +20,8 @@ export default function Timeline({ data }: TimelineProps) {
         <>
             <Script 
                 src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js" 
-                onLoad={() => {
+                strategy="afterInteractive"
+                onReady={() => {
                     if (timelineRef.current) {
                         new window.TL.Timeline(timelineRef.current, data);
                     }

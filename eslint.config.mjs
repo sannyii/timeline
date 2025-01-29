@@ -11,6 +11,21 @@ const compat = new FlatCompat({
 
 const eslintConfig = [
   ...compat.extends("next/core-web-vitals", "next/typescript"),
+  {
+    rules: {
+      // 类型可以使用 any
+      "@typescript-eslint/no-explicit-any": "off",
+      // 允许使用 console
+      "no-console": "off",
+      // 允许使用 debugger
+      "no-debugger": "off",
+      // 允许使用 require
+      "global-require": "off",
+      // 允许使用 module.exports
+      "no-restricted-modules": "off",
+    }
+  }
+
 ];
 
 export default eslintConfig;
