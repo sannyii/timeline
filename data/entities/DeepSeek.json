@@ -1,15 +1,15 @@
 [
     {
         "media": {
-            "caption": "艾伦·图灵和他的图灵机",
-            "credit": "Wikimedia Commons",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg"
+            "caption": "DeepSeek-R1-Lite 预览版模型在美国数学竞赛（AMC）中难度等级最高的 AIME 以及全球顶级编程竞赛（codeforces）等权威评测中，均取得了卓越的成绩，大幅超越了 GPT-4o 等知名模型。",
+            "credit": "https://api-docs.deepseek.com/zh-cn/news/news0905",
+            "url": "https://dp-cdn-deepseek.obs.cn-east-3.myhuaweicloud.com/api-docs/r1_benchmark_zh.png",
+            "thumbnail": "https://dp-cdn-deepseek.obs.cn-east-3.myhuaweicloud.com/api-docs/r1_benchmark_zh.png"
         },
         "start_date": {
-            "year": "1936",
-            "month": "",
-            "day": "",
+            "year": "2024",
+            "month": "9",
+            "day": "5",
             "hour": "",
             "minute": "",
             "second": "",
@@ -18,21 +18,21 @@
             "display_date": ""
         },
         "text": {
-            "headline": "图灵发表《论可计算数及其在判定问题上的应用》",
-            "text": "艾伦·图灵提出了图灵机概念，为计算机科学和人工智能奠定了理论基础。这篇论文标志着对机器智能的正式思考的开始。"
+            "headline": "DeepSeek-R1-Lite 预览版正式上线",
+            "text": "DeepSeek R1 系列模型使用强化学习训练，推理过程包含大量反思和验证，思维链长度可达数万字。"
         }
     },
     {
         "media": {
-            "caption": "1956年达特茅斯会议参与者",
-            "credit": "https://web.archive.org/web/20181129142648/http://www.cs.dartmouth.edu/news/071706-dartmouth.html",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Dartmouth_workshop_on_artificial_intelligence.jpg",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/24/Dartmouth_workshop_on_artificial_intelligence.jpg"
+            "caption": "DeepSeek-V2.5 不仅保留了原有 Chat 模型的通用对话能力和 Coder 模型的强大代码处理能力，还更好地对齐了人类偏好。此外，DeepSeek-V2.5 在写作任务、指令跟随等多个方面也实现了大幅提升。",
+            "credit": "https://api-docs.deepseek.com/zh-cn/news/news0905",
+            "url": "https://dp-cdn-deepseek.obs.cn-east-3.myhuaweicloud.com/api-docs/version_history.png",
+            "thumbnail": "https://dp-cdn-deepseek.obs.cn-east-3.myhuaweicloud.com/api-docs/version_history.png"
         },
         "start_date": {
-            "year": "1956",
-            "month": "06",
-            "day": "",
+            "year": "2024",
+            "month": "9",
+            "day": "5",
             "hour": "",
             "minute": "",
             "second": "",
@@ -41,205 +41,24 @@
             "display_date": ""
         },
         "text": {
-            "headline": "达特茅斯会议：人工智能诞生",
-            "text": "John McCarthy, Marvin Minsky, Nathaniel Rochester, 和 Claude Shannon 在达特茅斯学院组织了这次会议，标志着“人工智能”作为一个研究领域的正式诞生。"
+            "headline": "DeepSeek-V2.5 正式发布",
+            "text": "DeepSeek-V2.5：融合通用与代码能力的全新开源模型"
         }
     },
     {
         "media": {
-            "caption": "ELIZA的模拟对话",
-            "credit": "Joseph Weizenbaum",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Eliza_example.png",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/27/Eliza_example.png"
+            "caption": "JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation",
+            "credit": "https://github.com/deepseek-ai/Janus?tab=readme-ov-file",
+            "url": "",
+            "thumbnail": ""
+        },
+        "background": {
+            "url": "/img/DeepSeek/teaser_janusflow.png"
         },
         "start_date": {
-            "year": "1966",
-            "month": "",
-            "day": "",
-            "hour": "",
-            "minute": "",
-            "second": "",
-            "millisecond": "",
-            "format": "",
-            "display_date": ""
-        },
-        "text": {
-            "headline": "ELIZA：最早的自然语言处理程序之一",
-            "text": "由约瑟夫·魏泽鲍姆开发的ELIZA是一个早期自然语言处理程序，模拟了罗杰斯心理治疗师的对话风格，尽管它只是基于简单的模式匹配。"
-        }
-    },
-    {
-        "media": {
-            "caption": "Deep Blue 与卡斯帕罗夫对战",
-            "credit": "https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Kasparov_vs_Deep_Blue_%282005%29.jpg",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Kasparov_vs_Deep_Blue_%282005%29.jpg"
-        },
-        "start_date": {
-            "year": "1997",
-            "month": "05",
-            "day": "",
-            "hour": "",
-            "minute": "",
-            "second": "",
-            "millisecond": "",
-            "format": "",
-            "display_date": ""
-        },
-        "text": {
-            "headline": "深蓝击败国际象棋世界冠军卡斯帕罗夫",
-            "text": "IBM的深蓝计算机击败了当时的世界象棋冠军加里·卡斯帕罗夫，标志着人工智能在战略博弈领域取得的重大突破。"
-        }
-    },
-    {
-        "media": {
-            "caption": "ImageNet数据集示例",
-            "credit": "https://www.image-net.org/",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ImageNet_dataset.png/640px-ImageNet_dataset.png",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ImageNet_dataset.png/640px-ImageNet_dataset.png"
-        },
-        "start_date": {
-            "year": "2009",
-            "month": "",
-            "day": "",
-            "hour": "",
-            "minute": "",
-            "second": "",
-            "millisecond": "",
-            "format": "",
-            "display_date": ""
-        },
-        "text": {
-            "headline": "ImageNet大规模视觉识别挑战赛",
-            "text": "ImageNet数据集的推出和随后的ImageNet大规模视觉识别挑战赛（ILSVRC）推动了深度学习和计算机视觉的快速发展，促成了卷积神经网络的广泛应用。"
-        }
-    },
-    {
-        "media": {
-            "caption": "Siri 发布界面",
-            "credit": "Apple",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Siri_icon_iphone.png",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Siri_icon_iphone.png"
-        },
-        "start_date": {
-            "year": "2011",
-            "month": "10",
-            "day": "",
-            "hour": "",
-            "minute": "",
-            "second": "",
-            "millisecond": "",
-            "format": "",
-            "display_date": ""
-        },
-        "text": {
-            "headline": "苹果发布Siri：语音助手进入大众视野",
-            "text": "苹果公司在其iPhone 4S中首次推出Siri，使语音助手成为大众消费品，并开启了语音交互时代。"
-        }
-    },
-    {
-        "media": {
-            "caption": "AlexNet 架构",
-            "credit": "https://paperswithcode.com/method/alexnet",
-            "url": "https://paperswithcode.com/media/methods/alexnet-1-131.png",
-            "thumbnail": "https://paperswithcode.com/media/methods/alexnet-1-131.png"
-        },
-        "start_date": {
-            "year": "2012",
-            "month": "",
-            "day": "",
-            "hour": "",
-            "minute": "",
-            "second": "",
-            "millisecond": "",
-            "format": "",
-            "display_date": ""
-        },
-        "text": {
-            "headline": "AlexNet 在ImageNet比赛中获胜",
-            "text": "AlexNet 采用深度卷积神经网络架构，在ImageNet大规模视觉识别挑战赛中以显著优势获胜，标志着深度学习在图像识别领域的巨大突破。"
-        }
-    },
-    {
-        "media": {
-            "caption": "AlphaGo 击败 李世石",
-            "credit": "DeepMind",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/AlphaGo_vs_Lee_Sedol.jpg",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/5a/AlphaGo_vs_Lee_Sedol.jpg"
-        },
-        "start_date": {
-            "year": "2016",
-            "month": "03",
-            "day": "",
-            "hour": "",
-            "minute": "",
-            "second": "",
-            "millisecond": "",
-            "format": "",
-            "display_date": ""
-        },
-        "text": {
-            "headline": "AlphaGo 击败围棋世界冠军李世石",
-            "text": "DeepMind开发的AlphaGo程序击败了围棋世界冠军李世石，被认为是人工智能领域的重要里程碑，展现了深度强化学习的强大能力。"
-        }
-    },
-    {
-        "media": {
-            "caption": "BERT 模型架构",
-            "credit": "Google AI",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Transformer_attention_mask.svg/640px-Transformer_attention_mask.svg.png",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Transformer_attention_mask.svg/640px-Transformer_attention_mask.svg.png"
-        },
-        "start_date": {
-            "year": "2018",
-            "month": "",
-            "day": "",
-            "hour": "",
-            "minute": "",
-            "second": "",
-            "millisecond": "",
-            "format": "",
-            "display_date": ""
-        },
-        "text": {
-            "headline": "BERT 模型的发布",
-            "text": "Google 发布的 BERT (Bidirectional Encoder Representations from Transformers) 模型在多个自然语言处理任务上取得了突破性进展，标志着 NLP 技术进入了一个新的阶段。"
-        }
-    },
-    {
-        "media": {
-            "caption": "GPT-3生成的一段文本示例",
-            "credit": "OpenAI",
-            "url": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*9a7K9u0V-N-I8v6Z5R0B_Q.png",
-            "thumbnail": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*9a7K9u0V-N-I8v6Z5R0B_Q.png"
-        },
-        "start_date": {
-            "year": "2020",
-            "month": "",
-            "day": "",
-            "hour": "",
-            "minute": "",
-            "second": "",
-            "millisecond": "",
-            "format": "",
-            "display_date": ""
-        },
-        "text": {
-            "headline": "OpenAI 发布GPT-3",
-            "text": "OpenAI发布了GPT-3，一个具有1750亿参数的大规模语言模型，展示了生成高质量文本和执行复杂语言任务的能力，引发了对大型语言模型的广泛关注。"
-        }
-    },
-    {
-        "media": {
-            "caption": "ChatGPT 界面",
-            "credit": "OpenAI",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/ChatGPT_logo.svg/512px-ChatGPT_logo.svg.png",
-            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/ChatGPT_logo.svg/512px-ChatGPT_logo.svg.png"
-        },
-        "start_date": {
-            "year": "2022",
+            "year": "2024",
             "month": "11",
-            "day": "",
+            "day": "3",
             "hour": "",
             "minute": "",
             "second": "",
@@ -248,13 +67,36 @@
             "display_date": ""
         },
         "text": {
-            "headline": "OpenAI 发布 ChatGPT",
-            "text": "OpenAI 发布了 ChatGPT，一个基于大型语言模型的对话式 AI，引起了社会各界的广泛关注和讨论，推动了通用人工智能的进一步发展。"
+            "headline": "JanusFlow发布",
+            "text": "JanusFlow：协调自回归和整流，实现统一的多模态理解和生成。Janusflow推出了一种简约的体系结构，该体系结构将自回归语言模型与整流流程（一种生成建模的最新方法）集成在一起。 我们的关键发现表明，可以在大型语言模型框架中直接训练整流的流程，从而消除了对复杂的建筑修改的需求。 广泛的实验表明，Janusflow具有与各自领域中的专业模型相当或出色的性能，同时显着优于跨标准基准的现有统一方法。 这项工作代表了迈向更高效，更通用的视觉语言模型的一步。"
         }
     },
     {
         "media": {
-            "caption": "DeepSeek-R1 在测试集上的表现。",
+            "caption": "DeepSeek-V3 多项评测成绩超越了 Qwen2.5-72B 和 Llama-3.1-405B 等其他开源模型，并在性能上和世界顶尖的闭源模型 GPT-4o 以及 Claude-3.5-Sonnet 不分伯仲。",
+            "credit": "https://api-docs.deepseek.com/zh-cn/news/news1226",
+            "url": "https://dp-cdn-deepseek.obs.cn-east-3.myhuaweicloud.com/api-docs/ds_v3_benchmark_hist_zh.jpeg",
+            "thumbnail": "/img/20250120deepseek_r1_benchmark.png"
+        },
+        "start_date": {
+            "year": "2024",
+            "month": "12",
+            "day": "26",
+            "hour": "",
+            "minute": "",
+            "second": "",
+            "millisecond": "",
+            "format": "",
+            "display_date": ""
+        },
+        "text": {
+            "headline": "DeepSeek-V3 正式发布",
+            "text": "DeepSeek-V3 为自研 MoE 模型，671B 参数，激活 37B，在 14.8T token 上进行了预训练。"
+        }
+    },
+    {
+        "media": {
+            "caption": "DeepSeek-R1在测试集上的表现。在开源DeepSeek-R1-Zero和DeepSeek-R1两个660B模型的同时，通过DeepSeek-R1的输出，蒸馏了6个小模型开源给社区。",
             "credit": "https://api-docs.deepseek.com/zh-cn/news/news250120",
             "url": "/img/20250120deepseek_r1_benchmark.png",
             "thumbnail": "/img/20250120deepseek_r1_benchmark.png"
@@ -271,161 +113,34 @@
             "display_date": ""
         },
         "text": {
-            "headline": "DeepSeek-R1 发布",
-            "text": "性能对标 OpenAI o1 正式版,DeepSeek-R1 在后训练阶段大规模使用了强化学习技术，在仅有极少标注数据的情况下，极大提升了模型推理能力。在数学、代码、自然语言推理等任务上，性能比肩 OpenAI o1 正式版。"
+            "headline": "DeepSeek-R1发布",
+            "text": "性能对标OpenAI o1正式版，DeepSeek-R1在后训练阶段大规模使用了强化学习技术，在仅有极少标注数据的情况下，极大提升了模型推理能力。在数学、代码、自然语言推理等任务上，性能比肩OpenAI o1正式版。"
         }
     },
     {
         "media": {
-            "caption": "1950年图灵测试论文发表，提出了判断机器是否具有智能的方法。",
-            "credit": "https://academic.oup.com/mind/article/LIX/236/433/986238",
-            "url": "",
-            "thumbnail": ""
+            "caption": "https://github.com/deepseek-ai/Janus?tab=readme-ov-file",
+            "credit": "",
+            "url": "/img/DeepSeek/teaser_januspro.png",
+            "thumbnail": "/img/DeepSeek/teaser_januspro.png"
         },
-        "start_date": {
-            "year": "1950",
-            "month": "10",
-            "day": "01"
-        },
-        "text": {
-            "headline": "图灵测试提出",
-            "text": "艾伦·图灵发表论文《计算机器与智能》(Computing Machinery and Intelligence)，提出著名的图灵测试，这成为了人工智能领域的一个重要里程碑。"
-        }
-    },
-    {
-        "media": {
-            "caption": "达特茅斯会议被认为是人工智能领域的诞生时刻。",
-            "credit": "https://www.dartmouth.edu/~ai50/history.html",
-            "url": "",
-            "thumbnail": ""
-        },
-        "start_date": {
-            "year": "1956",
-            "month": "07",
-            "day": "01"
-        },
-        "text": {
-            "headline": "达特茅斯会议召开",
-            "text": "在达特茅斯学院举行的会议上，'人工智能'一词首次被正式提出。约翰·麦卡锡、马文·明斯基、克劳德·香农等人参加了这次具有历史意义的会议。"
-        }
-    },
-    {
-        "media": {
-            "caption": "深蓝战胜世界象棋冠军卡斯帕罗夫，这是计算机首次在正式比赛中战胜世界冠军。",
-            "credit": "https://www.ibm.com/ibm/history/ibm100/us/en/icons/deepblue/",
-            "url": "",
-            "thumbnail": ""
-        },
-        "start_date": {
-            "year": "1997",
-            "month": "05",
-            "day": "11"
-        },
-        "text": {
-            "headline": "深蓝战胜卡斯帕罗夫",
-            "text": "IBM的超级计算机深蓝在六局比赛中以3.5:2.5的比分击败了世界象棋冠军加里·卡斯帕罗夫，这是计算机首次在标准国际象棋规则下战胜世界冠军。"
-        }
-    },
-    {
-        "media": {
-            "caption": "AlphaGo击败李世石，标志着AI在围棋领域实现重大突破。",
-            "credit": "https://deepmind.google/technologies/alphago/",
-            "url": "",
-            "thumbnail": ""
-        },
-        "start_date": {
-            "year": "2016",
-            "month": "03",
-            "day": "15"
-        },
-        "text": {
-            "headline": "AlphaGo战胜李世石",
-            "text": "谷歌DeepMind开发的AlphaGo在五局比赛中以4:1的比分战胜了职业九段棋手李世石，这是人工智能在围棋领域的首次重大胜利。"
-        }
-    },
-    {
-        "media": {
-            "caption": "GPT-3的发布标志着大语言模型时代的到来。",
-            "credit": "https://openai.com/blog/gpt-3-apps",
-            "url": "",
-            "thumbnail": ""
-        },
-        "start_date": {
-            "year": "2020",
-            "month": "06",
-            "day": "11"
-        },
-        "text": {
-            "headline": "GPT-3发布",
-            "text": "OpenAI发布了当时最大的语言模型GPT-3，拥有1750亿参数，展现出了前所未有的自然语言处理能力，开创了大语言模型时代。"
-        }
-    },
-    {
-        "media": {
-            "caption": "ChatGPT的发布引发了全球AI热潮。",
-            "credit": "https://openai.com/blog/chatgpt",
-            "url": "",
-            "thumbnail": ""
-        },
-        "start_date": {
-            "year": "2022",
-            "month": "11",
-            "day": "30"
-        },
-        "text": {
-            "headline": "ChatGPT发布",
-            "text": "OpenAI发布ChatGPT，这是一个基于GPT-3.5的对话式AI助手，其强大的对话能力和实用性引发了全球范围内的AI热潮，推动了AI技术的大规模商业化应用。"
-        }
-    },
-    {
-        "media": {
-            "caption": "GPT-4的多模态能力带来了质的飞跃。",
-            "credit": "https://openai.com/research/gpt-4",
-            "url": "",
-            "thumbnail": ""
-        },
-        "start_date": {
-            "year": "2023",
-            "month": "03",
-            "day": "14"
-        },
-        "text": {
-            "headline": "GPT-4发布",
-            "text": "OpenAI发布GPT-4，这是第一个真正的多模态大型语言模型，可以理解和分析图像，在各种专业考试中都展现出接近人类专家的表现。"
-        }
-    },
-    {
-        "media": {
-            "caption": "Claude 3发布，在多个基准测试中超越了GPT-4。",
-            "credit": "https://www.anthropic.com/news/claude-3-series",
-            "url": "",
-            "thumbnail": ""
-        },
-        "start_date": {
-            "year": "2024",
-            "month": "03",
-            "day": "04"
-        },
-        "text": {
-            "headline": "Claude 3系列发布",
-            "text": "Anthropic发布Claude 3系列模型，包括Opus、Sonnet和Haiku三个版本。其中Opus版本在多个评测中超越GPT-4，展现出强大的推理能力和更好的事实准确性。"
-        }
-    },
-    {
-        "media": {
-            "caption": "DeepSeek-R1在测试集上的表现。在开源DeepSeek-R1-Zero和DeepSeek-R1两个660B模型的同时，通过DeepSeek-R1的输出，蒸馏了6个小模型开源给社区。",
-            "credit": "https://api-docs.deepseek.com/zh-cn/news/news250120",
-            "url": "",
-            "thumbnail": ""
+        "background":{
+            "url":"/img/DeepSeek/teaser.png"
         },
         "start_date": {
             "year": "2025",
             "month": "01",
-            "day": "20"
+            "day": "27",
+            "hour": "",
+            "minute": "",
+            "second": "",
+            "millisecond": "",
+            "format": "",
+            "display_date": ""
         },
         "text": {
-            "headline": "DeepSeek-R1发布",
-            "text": "性能对标OpenAI o1正式版，DeepSeek-R1在后训练阶段大规模使用了强化学习技术，在仅有极少标注数据的情况下，极大提升了模型推理能力。在数学、代码、自然语言推理等任务上，性能比肩OpenAI o1正式版。"
+            "headline": "JanusFlow：协调自回归和整流流以实现统一的多模态理解和生成",
+            "text": "Janus-Pro 是前作 Janus 的高级版本。具体来说，Janus-Pro 结合了 （1） 优化的训练策略，（2） 扩展的训练数据，以及 （3） 扩展到更大的模型大小。通过这些改进，Janus-Pro 在多模态理解和文本到图像的指令跟踪功能方面都取得了重大进步，同时还增强了文本到图像生成的稳定性。"
         }
     }
 ]
