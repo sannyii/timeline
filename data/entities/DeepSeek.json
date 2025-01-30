@@ -8,8 +8,8 @@
         },
         "start_date": {
             "year": "2024",
-            "month": "9",
-            "day": "5",
+            "month": "1",
+            "day": "20",
             "hour": "",
             "minute": "",
             "second": "",
@@ -50,7 +50,7 @@
             "caption": "JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation",
             "credit": "https://github.com/deepseek-ai/Janus?tab=readme-ov-file",
             "url": "",
-            "thumbnail": ""
+            "thumbnail": "/img/DeepSeek/teaser_janusflow.png"
         },
         "background": {
             "url": "/img/DeepSeek/teaser_janusflow.png"
