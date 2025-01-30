@@ -1,0 +1,48 @@
+[
+    {
+        "media": {
+            "caption": "艾伦·图灵和他的图灵机",
+            "credit": "Wikimedia Commons",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg"
+        },
+        "start_date": {
+            "year": "1936",
+            "month": "",
+            "day": "",
+            "hour": "",
+            "minute": "",
+            "second": "",
+            "millisecond": "",
+            "format": "",
+            "display_date": ""
+        },
+        "text": {
+            "headline": "图灵发表《论可计算数及其在判定问题上的应用》",
+            "text": "艾伦·图灵提出了图灵机概念，为计算机科学和人工智能奠定了理论基础。这篇论文标志着对机器智能的正式思考的开始。"
+        }
+    },
+    {
+        "media": {
+            "caption": "1956年达特茅斯会议参与者",
+            "credit": "https://web.archive.org/web/20181129142648/http://www.cs.dartmouth.edu/news/071706-dartmouth.html",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Dartmouth_workshop_on_artificial_intelligence.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/24/Dartmouth_workshop_on_artificial_intelligence.jpg"
+        },
+        "start_date": {
+            "year": "1956",
+            "month": "06",
+            "day": "",
+            "hour": "",
+            "minute": "",
+            "second": "",
+            "millisecond": "",
+            "format": "",
+            "display_date": ""
+        },
+        "text": {
+            "headline": "达特茅斯会议：人工智能诞生",
+            "text": "John McCarthy, Marvin Minsky, Nathaniel Rochester, 和 Claude Shannon 在达特茅斯学院组织了这次会议，标志着“人工智能”作为一个研究领域的正式诞生。"
+        }
+    }
+]
