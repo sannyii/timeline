@@ -1,4 +1,4 @@
-import events from './timeline/events.json';
+import events from './influence/events.json';
 import events_early1990 from './timeline/fromearlyto1990.json';
 import events_1990to2000 from './timeline/from1990to2000.json';
 import events_2001to2020 from './timeline/from2001to2020.json';
@@ -14,4 +14,5 @@ import GLM_events from './entities/GLM.json';
 export const all_events = [
   // ...events,
   ...DeepSeek_events,
+  // ...Antropic_events
 ]

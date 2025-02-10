@@ -8,7 +8,7 @@
         },
         "start_date": {
             "year": "2024",
-            "month": "1",
+            "month": "11",
             "day": "20",
             "hour": "",
             "minute": "",
@@ -19,7 +19,7 @@
         },
         "text": {
             "headline": "DeepSeek-R1-Lite 预览版正式上线",
-            "text": "DeepSeek R1 系列模型使用强化学习训练，推理过程包含大量反思和验证，思维链长度可达数万字。"
+            "text": "DeepSeek R1 系列模型使用强化学习训练，推理过程包含大量反思和验证，思维链长度可达数万字。虽然是 R1 的第一个最初版本，但是这个模型的影响力不及 R1 的万分之一，仅仅是在少量科研工作者中被谈及。"
         }
     },
     {
@@ -96,6 +96,29 @@
     },
     {
         "media": {
+            "caption": "在 R1 发布前，DeepSeek App 就已经上线，但是无人在意，甚至，在 App 中就有已经有了 Deep-Think mode 模式，但是当时并无人提起。",
+            "credit": "https://api-docs.deepseek.com/zh-cn/news/news250115",
+            "url": "/img/DeepSeek/app.jpg",
+            "thumbnail": ""
+        },
+        "start_date": {
+            "year": "2025",
+            "month": "1",
+            "day": "15",
+            "hour": "",
+            "minute": "",
+            "second": "",
+            "millisecond": "",
+            "format": "",
+            "display_date": ""
+        },
+        "text": {
+            "headline": "DeepSeek App发布",
+            "text": "功能强大的掌上助手DeepSeekApp是由 DeepSeek 官方推出的 AI助手，用户安装后即可免费与性能世界领先的DeepSeek-V3 模型互动交流。DeepSeekApp 支持中国大陆手机号码、微信与AppleID(仅限i0S)一键登录，同一账号内历史对话记录与网页端同步，现有功能也与网页端全面对齐:支持联网搜索与深度思考模式，同时支持文件上传，能够扫描读取各类文件及图片中的文字内容，随时随地为用户答疑解惑、实现学习办公提效。"
+        }
+    },
+    {
+        "media": {
             "caption": "DeepSeek-R1在测试集上的表现。在开源DeepSeek-R1-Zero和DeepSeek-R1两个660B模型的同时，通过DeepSeek-R1的输出，蒸馏了6个小模型开源给社区。",
             "credit": "https://api-docs.deepseek.com/zh-cn/news/news250120",
             "url": "/img/20250120deepseek_r1_benchmark.png",
@@ -124,8 +147,8 @@
             "url": "/img/DeepSeek/teaser_januspro.png",
             "thumbnail": "/img/DeepSeek/teaser_januspro.png"
         },
-        "background":{
-            "url":"/img/DeepSeek/teaser.png"
+        "background": {
+            "url": "/img/DeepSeek/teaser.png"
         },
         "start_date": {
             "year": "2025",
@@ -141,6 +164,71 @@
         "text": {
             "headline": "JanusFlow：协调自回归和整流流以实现统一的多模态理解和生成",
             "text": "Janus-Pro 是前作 Janus 的高级版本。具体来说，Janus-Pro 结合了 （1） 优化的训练策略，（2） 扩展的训练数据，以及 （3） 扩展到更大的模型大小。通过这些改进，Janus-Pro 在多模态理解和文本到图像的指令跟踪功能方面都取得了重大进步，同时还增强了文本到图像生成的稳定性。"
+        }
+    },
+    {
+        "media": {
+            "caption": "Google Trends 关于 DeepSeek 的搜索热度。在 1 月 27 日和 28 日达到顶峰",
+            "credit": "https://trends.google.com/trends/explore?date=today%203-m&geo=US&q=DeepSeek&hl=en-US",
+            "url": "/img/DeepSeek/DeepSeekTrend.png",
+            "thumbnail": "/img/DeepSeek/DeepSeekTrend.png"
+        },
+        "start_date": {
+            "year": "2025",
+            "month": "1",
+            "day": "27",
+            "hour": "",
+            "minute": "",
+            "second": "",
+            "millisecond": "",
+            "format": "",
+            "display_date": ""
+        }
+    },
+    {
+        "media": {
+            "caption": "https://x.com/karpathy/status/1872362712958906460",
+            "credit": "",
+            "url": "/img/DeepSeek/Andrej2V3.png",
+            "thumbnail": "/img/DeepSeek/Andrej2V3.png"
+        },
+        "start_date": {
+            "year": "2024",
+            "month": "12",
+            "day": "26",
+            "hour": "",
+            "minute": "",
+            "second": "",
+            "millisecond": "",
+            "format": "",
+            "display_date": ""
+        },
+        "text": {
+            "headline": "DeepSeek-V3发布时已经受到 Andrej Karpathy 的深度认可",
+            "text": "Andrej Karpathy 称 V3 是 Very nice & detailed tech report！"
+        }
+    },
+    {
+        "media": {
+            "caption": "来自真格基金会议分享",
+            "credit": "",
+            "url": "/img/DeepSeek/DeepSeekStockDown.png",
+            "thumbnail": "/img/DeepSeek/DeepSeekStockDown.png"
+        },
+        "start_date": {
+            "year": "2025",
+            "month": "01",
+            "day": "27",
+            "hour": "",
+            "minute": "",
+            "second": "",
+            "millisecond": "",
+            "format": "",
+            "display_date": ""
+        },
+        "text": {
+            "headline": "DeepSeek-R1 导致 1 月 27 日美股大跌",
+            "text": "进一步促进了 DeepSeek-R1 的出圈"
         }
     }
 ]

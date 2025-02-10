@@ -15,16 +15,23 @@ export default function Timeline({ data }: TimelineProps) {
             new window.TL.Timeline(timelineRef.current, data);
         }
     }, [data]);
+    var options = {
+        // hash_bookmark: true,
+        // initial_zoom: 1,
+        scale_factor: 0.5,
+        // start_at_end: true,
+        // start_at_slide: 3
+    }
 
     return (
         <>
-            <Script 
-                // src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js" 
-                src="/static/timeline.js" 
+            <Script
+                src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"
+                // src="/static/timeline.js"
                 strategy="afterInteractive"
                 onReady={() => {
                     if (timelineRef.current) {
-                        new window.TL.Timeline(timelineRef.current, data);
+                        new window.TL.Timeline(timelineRef.current, data, options);
                     }
                 }}
             />

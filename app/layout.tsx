@@ -2,8 +2,8 @@ import './globals.css'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-    title: 'AI 发展时间线',
-    description: '记录人工智能领域的重要时刻（不断补充中）',
+    title: 'DeepSeek 进化之路',
+    description: '记录 DeepSeek 的重要时刻（不断补充中）',
 }
 
 export default function RootLayout({
@@ -18,6 +18,7 @@ export default function RootLayout({
                     title="timeline-styles" 
                     rel="stylesheet" 
                     href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css"
+                    // href="/static/timeline.css"
                 />
             </head>
             <body>{children}</body>
