@@ -12,11 +12,15 @@ export default function About() {
   };
 
   return (
-    <div className="min-h-screen bg-background py-12 px-4 sm:px-6 lg:px-8">
+    <motion.div
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      className="min-h-screen bg-gradient-to-br from-black via-gray-900 to-purple-900 py-12 px-4 sm:px-6 lg:px-8"
+    >
       <div className="flex justify-end mb-8">
         <Link
           href="/"
-          className="inline-flex items-center px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 transition-colors duration-200"
+          className="neon-link inline-flex items-center px-4 py-2 rounded-md"
         >
           <span>返回主页</span>
         </Link>
@@ -73,7 +77,7 @@ export default function About() {
               <p className="text-foreground/80 mb-4">
                 如果您觉得这个工具对您有帮助，可以考虑赞助我们，帮助我们持续改进。
               </p>
-              <button className="bg-blue-500 text-white px-6 py-2 rounded-md hover:bg-blue-600 transition-colors">
+              <button className="neon-link px-6 py-2 rounded-md">
                 成为赞助者
               </button>
             </div>
@@ -123,6 +127,6 @@ export default function About() {
           </div>
         </motion.section>
       </div>
-    </div>
+    </motion.div>
   );
 }
