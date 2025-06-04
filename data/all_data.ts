@@ -12,6 +12,15 @@ import Qwen_events from './entities/Qwen.json';
 import GLM_events from './entities/GLM.json';
 
 export const all_events = [
-  // ...events,
+  ...events,
+  ...events_early1990,
+  ...events_1990to2000,
+  ...events_2001to2020,
+  ...events_2021tofuture,
   ...DeepSeek_events,
-]
+  ...OpenAI_events,
+  ...Antropic_events,
+  ...Google_events,
+  ...Qwen_events,
+  ...GLM_events,
+];
