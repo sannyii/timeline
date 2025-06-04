@@ -1,6 +1,7 @@
 import { all_events } from "./all_data";
+import type { TimelineData } from "@/types/timeline";
 
-export const timelineData = {
+export const timelineData: TimelineData = {
   "title": {
     // "background": {
     //   "url": "/img/openai-research-floral-painting.webp",
