@@ -2,9 +2,10 @@
 
 import { useEffect, useRef } from 'react';
 import Script from 'next/script';
+import type { TimelineData } from '@/types/timeline';
 
 interface TimelineProps {
-    data: any;
+    data: TimelineData;
 }
 
 export default function Timeline({ data }: TimelineProps) {
